@@ -1,3 +1,5 @@
+Projeto Pausado (a pedido da cliente), será retomado no futuro
+
 
 TITLE: 
 Shop - 100% Fully Responsive Free HTML5 Bootstrap Template
